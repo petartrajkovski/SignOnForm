@@ -6,7 +6,7 @@ $(document).ready(function(){
   });
 
      $('.plusbtn').click(function() {
-          var name = $("#inputName").val()
+          var name = $("#inputName").val();
           var email = $("#inputEmail").val();
           var phone = $("#inputPhone").val();
 
